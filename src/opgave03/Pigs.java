@@ -1,5 +1,5 @@
 package opgave03;
-
+//test
 import java.util.Scanner;
 
 public class Pigs {

@@ -1,5 +1,5 @@
 package opgave01;
-
+//test
 import java.util.Scanner;
 
 public class RollTwoDice {
